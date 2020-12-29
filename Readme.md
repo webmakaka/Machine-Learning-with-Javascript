@@ -4,6 +4,8 @@
 
 ### [01 What is Machine Learning?](./01-What-is-Machine-Learning.md)
 
+### [02 Algorithm Overview](./02-Algorithm-Overview.md)
+
 <br/>
 
 ---
