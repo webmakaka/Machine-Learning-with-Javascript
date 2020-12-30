@@ -50,6 +50,86 @@
 
 <br/>
 
+### 023 Updating KNN for Multiple Features
+
+<br/>
+
+![Application](/img/pic-m02-p08.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m02-p09.png?raw=true)
+
+<br/>
+
+### 024 Multi-Dimensional KNN
+
+<br/>
+
+![Application](/img/pic-m02-p10.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m02-p11.png?raw=true)
+
+<br/>
+
+### 025 N-Dimension Distance
+
+<br/>
+
+### 026 Arbitrary Feature Spaces
+
+<br/>
+
+### 027 Magnitude Offsets in Features
+
+<br/>
+
+### 028 Feature Normalization
+
+<br/>
+
+![Application](/img/pic-m02-p12.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m02-p13.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m02-p14.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m02-p15.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m02-p16.png?raw=true)
+
+<br/>
+
+### 029 Normalization with MinMax
+
+<br/>
+
+### 030 Applying Normalization
+
+<br/>
+
+### 031 Feature Selection with KNN
+
+<br/>
+
+### 032 Objective Feature Picking
+
+<br/>
+
+### 033 Evaluating Different Feature Values
+
+<br/>
+
 ---
 
 <br/>
